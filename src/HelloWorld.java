@@ -4,7 +4,10 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
-		System.out.println("This is about the extent of my Java knowledge.");
+		System.out.println("WOW, SUCH MONIES!");
+		for(int i = 0; i < 100; i++){
+			System.out.println(i/5);
+		}
 	}
 
 }
